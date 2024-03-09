@@ -1,5 +1,5 @@
-// Dynamic Type
+// Nullable Variables
 void main(){
-    var name; 
-    dynamic name2 = '썸머';
+    String? name = 'hello'; 
+    name = null;
 }
