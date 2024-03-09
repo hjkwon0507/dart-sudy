@@ -1,5 +1,5 @@
-// Nullable Variables
+// Final Variables
 void main(){
-    String? name = 'hello'; 
-    name = null;
+    final name = 'summer';
+    name = '썸머'; // 불가능
 }
